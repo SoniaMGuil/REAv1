@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="es" id="exe-node-20260516153854ULFVXR">
+<head>
+<meta charset="utf-8">
+<meta name="generator" content="eXeLearning v3.0.2">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-sa/4.0/">
+<title>Producto final | Mi menú en la cesta de la compra</title>
+<script>document.querySelector("html").classList.add("js");</script><script src="../libs/jquery/jquery.min.js"> </script><script src="../libs/common_i18n.js"> </script><script src="../libs/common.js"> </script><script src="../libs/exe_export.js"> </script><script src="../libs/bootstrap/bootstrap.bundle.min.js"> </script><link rel="stylesheet" href="../libs/bootstrap/bootstrap.min.css">
+<script src="../idevices/text/text.js"> </script><link rel="stylesheet" href="../idevices/text/text.css">
+<link rel="stylesheet" href="../content/css/base.css">
+<script src="../theme/style.js"> </script><link rel="stylesheet" href="../theme/style.css">
+<link rel="icon" type="image/x-icon" href="../libs/favicon.ico">
+</head>
+<body class="exe-export exe-web-site" lang="es">
+<script>document.body.className+=" js"</script><div class="exe-content exe-export pre-js siteNav-hidden"> <nav id="siteNav"> <ul> <li> <a href="../index.html" class="main-node no-ch">Presentación y descripción SdA</a>
+</li>
+<li> <a href="../html/consejos-de-privacidad.html" class="no-ch">Consejos de privacidad</a>
+</li>
+<li class="active"> <a href="../html/producto-final.html" class="active no-ch">Producto final</a>
+</li>
+<li> <a href="../html/curacion-de-contenidos.html" class="daddy">Curación de contenidos</a><ul class="other-section"> <li> <a href="../html/docente.html" class="no-ch">Docente</a>
+</li>
+<li> <a href="../html/alumnado.html" class="no-ch">Alumnado</a>
+</li>
+</ul>
+</li>
+<li> <a href="../html/linea-temporal.html" class="no-ch">Línea temporal</a>
+</li>
+<li> <a href="../html/guia-didactica.html" class="daddy">Guía didáctica</a><ul class="other-section"> <li> <a href="../html/criterios-de-evaluacion.html" class="no-ch">Criterios de evaluación</a>
+</li>
+</ul>
+</li>
+<li> <a href="../html/instrumentos-de-evaluacion.html" class="no-ch">Instrumentos de evaluación</a>
+</li>
+<li> <a href="../html/creditos.html" class="no-ch">Créditos</a>
+</li>
+</ul></nav><main id="20260516153854ULFVXR" class="page"> <header id="header-20260516153854ULFVXR" class="main-header"> <div class="package-header">
+<h1 class="package-title">Mi menú en la cesta de la compra</h1>
+<p class="package-subtitle">SdA fracciones (ACS)</p>
+</div>
+<div class="page-header"><h2 class="page-title">Producto final</h2></div></header><div id="page-content-20260516153854ULFVXR" class="page-content"> <article id="20260516153854ZJQNAF" class="box"> <header class="box-head no-icon"> <h1 class="box-title">Padlet</h1>
+<button class="box-toggle box-toggle-on" title="Ocultar/Mostrar contenido"> <span>Ocultar/Mostrar contenido</span></button></header><div class="box-content"> <div id="20260513191401575S7I" class="idevice_node text" data-idevice-path="../idevices/text/" data-idevice-type="text" data-idevice-component-type="json"><div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>HERRAMIENTA “ PADLET de PADLETS”<br>He elegido Padlet como herramienta para el producto final de mi SdA, sobre fracciones, para alumnado de 1º ESO (NEAE) con nivel de competencia curricular de 5º de Primaria.<br>Esta herramienta ofrece un entorno visual único y permite la integración de las otras herramientas trabajadas por el alumnado. Además, destaca por su versatilidad, permitiendo al alumnado grabar notas de voz para superar barreras de escritura, y al docente ( como administrador del muro o invitado como colaborador) realizar una evaluación formativa mediante comentarios y aclaraciones directas en el trabajo del alumnado.<br>Padlet actúa como porfolio digital. Su estructura en columnas reduce la carga cognitiva, permitiendo al alumnado organizar el proceso de forma visual y lógica:<br>Menú ( usará Canva) - lista de la compra (Google Keep) - compra online(Web supermercado)<br>El alumnado entregará su trabajo vinculando su enlace en el Padlet del profesor y el alumnado comentará y reaccionará a los menús de forma interactiva.</p><p class="clearfix"></p></div>
+            </div></div></div></div>
+</div></article>
+</div></main><div class="nav-buttons"> <a href="../html/consejos-de-privacidad.html" title="Anterior" class="nav-button nav-button-left"> <span>Anterior</span></a><a href="../html/curacion-de-contenidos.html" title="Siguiente" class="nav-button nav-button-right"> <span>Siguiente</span></a>
+</div>
+<footer id="siteFooter"><div id="siteFooterContent"> <div id="packageLicense" class="cc cc-by-sa"> <p> <span class="license-label">Licencia: </span><a href="https://creativecommons.org/licenses/by-sa/4.0/" class="license">creative commons: attribution - share alike 4.0</a></p>
+</div>
+</div></footer>
+</div>
+<p id="made-with-eXe"> <a href="https://exelearning.net/" target="_blank" rel="noopener"> <span>Creado con eXeLearning <span>(nueva ventana)</span></span></a></p>
+</body>
+</html>
